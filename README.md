@@ -35,4 +35,4 @@
 ### 原图
 <img src="zhuyilong/yangmi_ori.jpeg" width="1000px"/>
 ### 变黄头发
-<img src="zhuyilong/yangmi_yellow.jpeg" width="1000px"/>
+<img src="zhuyilong/yangmi_yellowhair.jpeg" width="1000px"/>
