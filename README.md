@@ -30,3 +30,9 @@
 <img src="zhuyilong/1597909038.809061.png_logo.png" width="1000px"/>
 ### 抿嘴笑
 <img src="zhuyilong/1597909055.049111.png_logo.png" width="1000px"/>
+
+  
+### 原图
+<img src="zhuyilong/yangmi_ori.jpeg" width="1000px"/>
+### 变黄头发
+<img src="zhuyilong/yangmi_yellow.jpeg" width="1000px"/>
