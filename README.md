@@ -1,6 +1,7 @@
 ## Use cases
 
-### pair 原图
+### pair
+###原图
 <img src="zhuyilong/reliao_img_1598853334448.jpeg" width="1000px"/>
 ### 变老
 <img src="zhuyilong/1597908854.1305194.png_logo.png" width="1000px"/>
@@ -31,14 +32,20 @@
 ### 抿嘴笑
 <img src="zhuyilong/1597909055.049111.png_logo.png" width="1000px"/>
 
-  
-### unpair原图
+
+### unpair
+### 男变女-原图
+<img src="zhuyilong/9898993_56249810_2402568736448214_7613148686839284891_n.jpg" width="1000px"/>
+### 男变女-效果图
+<img src="zhuyilong/reliao_img_1604577331068.jpg" width="1000px"/>
+### 男变女-原图
+<img src="zhuyilong/reliao_img_1604577661852.jpg" width="1000px"/>
+### 男变女-效果图
+<img src="zhuyilong/reliao_img_1604577667157.jpg" width="1000px"/>
+
+### 变发色-原图
 <img src="zhuyilong/yangmi_ori.jpeg" width="1000px"/>
-### 变黄头发
+### 变发色-效果图
 <img src="zhuyilong/yangmi_yellowhair.jpg" width="1000px"/>
 
 
-### unpair原图
-<img src="zhuyilong/9898993_56249810_2402568736448214_7613148686839284891_n.jpg" width="1000px"/>
-### 变黄头发
-<img src="zhuyilong/test_9898993_56249810_2402568736448214_7613148686839284891_n.jpg.jpg" width="1000px"/>
