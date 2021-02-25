@@ -1,6 +1,6 @@
 ## Use cases
 
-### video 
+### video
 ###女变男
 <img src="zhuyilong/test_fanyin_2_duibi.gif" width="500px"/>
 <img src="zhuyilong/test_gulinazha_1_duibi.gif" width="500px"/>
