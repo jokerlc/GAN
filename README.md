@@ -7,7 +7,7 @@
 
 ### pair
 ###原图
-<img src="zhuyilong/reliao_img_1598853334448.jpeg" width="1000px"/>
+<img src="zhuyilong/reliao_img_1598853334448.jpeg" width="500px"/>
 ### 变老
 <img src="zhuyilong/1597908854.1305194.png_logo.png" width="1000px"/>
 ### 变大胡子
