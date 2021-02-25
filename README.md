@@ -2,8 +2,8 @@
 
 ### video 
 ###女变男
-<img src="zhuyilong/gulinazha_1_duibi_new.gif" width="1000px"/>
-<img src="zhuyilong/gulinazha_duibi_new5.gif" width="1000px"/>
+<img src="zhuyilong/test_fanyin_2_duibi.gif" width="1000px"/>
+<img src="zhuyilong/test_gulinazha_1_duibi.gif" width="1000px"/>
 
 ### pair
 ###原图
