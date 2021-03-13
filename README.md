@@ -6,6 +6,9 @@
 <img src="zhuyilong/test_fanyin_2_duibi.gif" width="500px"/>
 <img src="zhuyilong/test_gulinazha_1_duibi.gif" width="500px"/>
 
+### 变胖
+<img src="zhuyilong/fat.gif" width="500px"/>
+
 ### pair
 
 ### 原图
